@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'namco-machine';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://neverbebeast.github.io/wolfpack/namcomachine.woff2') format('woff2');
+    src:local(☺), url('https://neverbebeast.github.io/wolfpack/namcomachine.woff') format('woff');
+    src:local(☺), url('https://neverbebeast.github.io/wolfpack/namcomachine.ttf') format('truetype');
+}
